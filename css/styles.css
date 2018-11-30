@@ -1,0 +1,10 @@
+h1 {
+  color: inherit;
+  text-align: justify;
+}
+body {
+  background-color: gray;
+}
+button{
+  color: blue;
+}

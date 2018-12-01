@@ -1,12 +1,21 @@
 h1 {
   color: inherit;
   text-align: justify;
+  text-decoration: underline;
 }
 body {
   background-color: gray;
 }
 button{
   color: blue;
-  shape-outside: ellipse();
+  shape-outside: padding-box;
+
 }
 external
+.tittle{
+  font-style: italic;
+  font-size: 12px;
+}
+.important{
+  color: green;
+}

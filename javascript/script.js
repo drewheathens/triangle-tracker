@@ -29,7 +29,7 @@ if (number1===number2 && number2===number3) alert("equilateral!")
 
 else if(number1===number2 || number2===number3) alert("isosceles!");
 
-else if (number1+number2>=number3 || number2+number3<=number1) alert("FATAL ERROR! cannot be formed using those values.");
+else if (number1+number2<=number3 || number2+number3<=number1) alert("FATAL ERROR! triangle cannot be formed using those values.");
 
 
 }

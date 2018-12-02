@@ -8,7 +8,7 @@ feel free to slack me at *mudavadi evans.*
 
 #**INSTALLATION**
 
-clone this repository to a location in your computer, from there you should be able to access the app at any time by running it in your web browser.
+clone this repository to a location in your computer, from there you should be able to access the app(triangle-tracker.html) at any time by running it in your web browser.
 
 #**USAGE**
 

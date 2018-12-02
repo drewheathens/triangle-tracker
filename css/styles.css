@@ -5,6 +5,7 @@ h1 {
 }
 body {
   background-color: gray;
+  background-image: image(https://media.giphy.com/media/3o7qDQNEs2CtC5AkZW/giphy.gif);
 }
 button{
   color: blue;
@@ -17,5 +18,8 @@ external
   font-size: 12px;
 }
 .important{
-  color: green;
+  color: white;
+}
+.image{
+  float: right;
 }

@@ -17,8 +17,11 @@ All that's required of the user is to press start button, input all three values
 #**TECHNOLOGIES USED**
 
 -javascript
+
 -css
+
 -html
+
 
 #**PROJECT STATUS**
 

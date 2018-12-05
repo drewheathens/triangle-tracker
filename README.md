@@ -4,7 +4,7 @@ Triangle-tracker is an app whereby a user is prompted to input numeric values th
 
 # **BDD**
 
--Gather values.
+-Given values of all three numbers.
 
 -check whether they form a triangle or not!
 

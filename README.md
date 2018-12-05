@@ -33,7 +33,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 # **AUTHORS**
 
-_EVANS MUDAVADI_
+_EVANS MUDAVADI_.
 
 # **LICENSING**
 

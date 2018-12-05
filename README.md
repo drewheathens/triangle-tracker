@@ -2,6 +2,14 @@
 
 Triangle-tracker is an app whereby a user is prompted to input numeric values that possibly may form a triangle. It tells the user whether the values entered forms an Equilateral, Isosceles, Scalene or doesn't form a triangle at all.
 
+# **BDD**
+
+-Gather values.
+
+-check whether they form a triangle or not!
+
+-Tell the type of triangle if at all it forms any.
+
 # **CONTACT INFORMATION**
 
 feel free to slack me at *mudavadi evans.*
